@@ -1,0 +1,5 @@
+MOUNT GDRIVE FIRST
+pip install anidbcli
+pip install --upgrade anidbcli #update
+!anidbcli
+!anidbcli -r ed2k  "path/to/directory"
